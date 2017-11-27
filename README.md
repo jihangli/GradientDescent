@@ -12,3 +12,6 @@ How to implement a basic Gradient Descent
 3. 变量1：到目前为止所得的最优变量
 4. 变量2：梯度（函数导数的相反值）
 5. 变量3：步长，沿着梯度下降方向的步长 
+
+Simple Example:
+Find the min value for function: x^2 - 2x + 1
